@@ -19,7 +19,7 @@ Dự án được phát triển trên **Google Colab** bằng Python, áp dụng
 
 ---
 
-## 🛠 Công nghệ sử dụng
+##  Công nghệ sử dụng
 - **Ngôn ngữ:** Python 3.10+
 - **Công cụ:** Google Colab, Jupyter Notebook
 - **Thư viện chính:**
@@ -59,7 +59,7 @@ Dự án được phát triển trên **Google Colab** bằng Python, áp dụng
 
 ---
 
-## 🛠 Công nghệ sử dụng
+##  Công nghệ sử dụng
 - **Ngôn ngữ:** Python 3.10+
 - **Công cụ:** Google Colab, Jupyter Notebook
 - **Thư viện chính:**
@@ -88,7 +88,7 @@ Dự án được phát triển trên **Google Colab** bằng Python, áp dụng
 
 
 
-## ▶ Cách chạy dự án
+##  Cách chạy dự án
 1️ **Clone repo về máy:**
 ```bash
 git clone https://github.com/a2hieu/benh-nhan-clustering.git
