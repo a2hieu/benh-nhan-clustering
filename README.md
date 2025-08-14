@@ -1,4 +1,4 @@
-# 🏥 Patient Clustering with Data Mining
+#  Patient Clustering with Data Mining
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a2hieu/benh-nhan-clustering/blob/main/DataMining.ipynb)
 
